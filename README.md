@@ -32,7 +32,7 @@ A rigorous computational implementation demonstrating how fundamental physical l
 
 The framework demonstrates the emergence of physics from pure mathematics:
 
-```math
+```latex
 # Geometric Structures
 ω = ∑ dpi ∧ dqi                    # Symplectic form
 {f,g} = ω(Xf, Xg)                  # Poisson bracket
